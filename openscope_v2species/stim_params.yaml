@@ -1,0 +1,6 @@
+num_reps_rf: 20
+num_reps_grating: 15
+num_reps_flash: 150
+inter_block_interval: 10
+dev_mode: true
+
